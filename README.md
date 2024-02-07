@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @masumbillah21
-- 👀 I’m interested in web and mobile app development
-- 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi there 👋
+I am H M Masum Billah. I'm currently working on Web & Mobile Development. For Mobile Application I use Flutter which is a framework for cross platform native app development, For web application I use WordPress and Laravl PHP framework. I really love it.
 
-<!---
-masumbillah21/masumbillah21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Skills I have
+- Languages : C, Dart, PHP, JavaScript
+- Frameworks : Flutter, Laravel
+- CMS: WordPress
+- Database: MySQL, SQL Server, SQLite
+- Strong knowledge in RESTful web-services/API
+- Have good experience with Unit testing
+- Good problem solving skill
+- Adobe XD & Figma for UI/UX
+- Proper knowledge of Github
