@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://miraculoussoft.com/wp-content/uploads/2022/03/best-PHP-Development-Services-new-york.gif" />
 
 <p>
-I'm currently working on Web & Mobile Development. For mobile apps, I use <strong>Flutter</strong> for cross-platform native development. For web applications, I work with <strong>Laravel</strong> and <strong>WordPress</strong>. I actively use <strong>ChatGPT</strong> to enhance productivity, solve technical challenges, and refine development workflows. I'm also working on a desktop project called <strong>Air Control Client</strong>, built with <strong>C#</strong> and <strong>WPF</strong>, which integrates with <strong>Microsoft Flight Simulator</strong> to provide real-time simulation features. I’m passionate about building scalable, user-centric solutions powered by smart tools and strong architecture.
+I'm currently working on Web & Mobile Development. For mobile apps, I use <strong>Flutter</strong> for cross-platform native development. For web applications, I work with <strong>Laravel</strong> and <strong>WordPress</strong>. I'm also working on a desktop project called <strong>Air Control Client</strong>, built with <strong>C#</strong> and <strong>WPF</strong>, which integrates with <strong>Microsoft Flight Simulator</strong> to provide real-time simulation features. I’m passionate about building scalable, user-centric solutions powered by smart tools and strong architecture.
 </p>
 
 ---
